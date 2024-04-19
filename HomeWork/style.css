@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.ul1{
+    margin-left: 43%;
+}
+
+.block1{
+    border: 1px solid black;
+    margin-left: 43%;
+}
+
+.block1 th, .block1 td{
+    border: 1px solid black;
+}
+
+.block1 img{
+    width: 30px;
+}
+
+.line{
+    border-top: 2px solid black;
+    margin-top: 10px;
+}
+
+h3{
+    color: red;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.block2{
+    border: 1px solid green;
+    border-collapse: collapse;
+    margin-left: 39%;
+}
+
+.block2 th, .block2 td{
+    border: 1px solid red;
+}
+
+/* ¯\_(ツ)_/¯ */
